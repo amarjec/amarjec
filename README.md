@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @amar agrawal
 - 👀 I’m interested in frontend web development, Java programming, and DSA.
-- 🌱 Currently learning advanced Frontend web development and Java.
+- 🌱 Currently learning Full stack web development (Mern).
 - 💞️ Looking to collaborate on exciting web projects.
 - 📫 Reach me at amarjec@gmail.com or on LinkedIn https://www.linkedin.com/in/amarjec/.
 - 😄 Pronouns: He/Him
