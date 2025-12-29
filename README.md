@@ -37,7 +37,7 @@ I am a final-year **Mechatronics Engineering** student at **Jabalpur Engineering
 
 #### 1. 🧾 [Billing Habit](https://billinghabit.vercel.app) *(Business Billing SaaS)*
 > *A MERN-based Progressive Web App (PWA) enabling businesses to manage billing and profit analysis.*
-* [cite_start]**Impact:** Slashed transaction time by **~90%+**, allowing invoice generation in 2-3 minutes.
+* **Impact:** Slashed transaction time by **~90%+**, allowing invoice generation in 2-3 minutes.
 * **Key Features:**
   * 🔐 **Security:** Secure profit analysis protected by 4-digit PIN.
   * 💳 **Payments:** Integrated **Razorpay** for live subscription workflows.
