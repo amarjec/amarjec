@@ -83,7 +83,7 @@ I am a final-year **Mechatronics Engineering** student at **Jabalpur Engineering
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
       <br>MySQL
     </td>
     <td align="center" width="96">
@@ -91,7 +91,7 @@ I am a final-year **Mechatronics Engineering** student at **Jabalpur Engineering
       <br>Tailwind
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS" />
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
       <br>AWS
     </td>
      <td align="center" width="96">
@@ -103,7 +103,7 @@ I am a final-year **Mechatronics Engineering** student at **Jabalpur Engineering
       <br>Vercel
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="65" height="65" />
       <br>Git
     </td>
   </tr>
