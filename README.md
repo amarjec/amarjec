@@ -29,7 +29,7 @@ I am a final-year **Mechatronics Engineering** student at **Jabalpur Engineering
 * 🧠 **Problem Solving:** Solved **800+ DSA problems** across LeetCode & GeeksforGeeks.
 * 🏆 **Leadership:** Selected as **Campus Ambassador for GeeksforGeeks** (2024-2025).
 * 🔭 **Currently Building:** **Billing Habit**, a SaaS deployed on the **Indus App Store**.
-* ⚡ **Fun fact:** I am a competitive **Powerlifter** 🏋️‍♂️ and enjoy strategic **Chess** ♟️ matches.
+* ⚡ **Fun fact:** I enjoy strategic **Chess** ♟️ matches.
 
 ---
 
